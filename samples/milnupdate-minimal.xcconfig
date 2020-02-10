@@ -1,0 +1,8 @@
+// These Xcode configuration settings must be overridden, see `milnupdate/frameworks/updatecore/updatecore.xcconfig`.
+
+MILNUPDATE_APP_NAME = Your Application Name
+MILNUPDATE_APP_BUNDLE = com.example.application
+MILNUPDATE_APP_CERTIFICATE[sdk=*][arch=*] = Developer ID Application: Your Company Name (ABC123XY)
+
+DEVELOPMENT_TEAM = ABC123XY
+CODE_SIGN_IDENTITY[sdk=*][arch=*] = Developer ID Application
