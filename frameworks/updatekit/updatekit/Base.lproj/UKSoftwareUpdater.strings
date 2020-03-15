@@ -1,6 +1,0 @@
-"checkforupdates.none.message" = "%@ is up to date."; /* {1} application name (string) */
-"checkforupdates.none.info" = "There is no new software currently available for %@."; /* {1} application name (string) */
-"softwareavailable.message.fmt" = "%@ has software to install."; /* {1} application name (string) */
-"softwareavailable.information.fmt" = "%@ would like to download and install new software. A secure helper tool will perform the installation. This application may need to quit and relaunch to complete the installation process."; /* {1} application name (string) */
-"installerror.message" = "Software install failed.";  /* {1} application name (string) {2} error message (string) */
-"installerror.info" = "%@ was unable to install the new software. The following error was reported: %@";  /* {1} application name (string) {2} error message (string) */
